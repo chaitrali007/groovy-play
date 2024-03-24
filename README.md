@@ -2,12 +2,13 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-<img width="1266" alt="Screen Shot 2022-06-19 at 2 18 18 PM" src="https://ibb.co/RvmVjSJ">
+<img width="1710" alt="Screenshot 2024-03-24 at 7 20 14 PM" src="https://github.com/chaitrali007/groovy-play/assets/100285768/19bba750-7988-4e71-b265-9098f89a92c0">
 
 Built using:
 
 - Front-end library: React
 - CSS framework: React-bootstrap
+
 - CSS animations library: Animate.css
 
 In the /groovy-play, you can run:
